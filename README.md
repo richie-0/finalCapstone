@@ -2,7 +2,7 @@
 
 ## Description
 
-This project is a movie recommendation system implemented in Python. It utilizes natural language processing (NLP) techniques to analyze movie descriptions and provides recommendations based on user input. The system considers user age to filter out age-appropriate recommendations.
+This project is a movie recommendation system implemented in Python using the spaCy module. It utilises NLP techniques to analyse movie descriptions and provides recommendations based on user input. The system considers user age to filter out age-appropriate recommendations.
 
 ## Table of Contents
 
